@@ -1,0 +1,2 @@
+# sonar
+custom sonar rules
